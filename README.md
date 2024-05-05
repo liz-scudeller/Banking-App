@@ -12,8 +12,8 @@ This Banking App is a simple Python program that simulates basic banking functio
 
 ## Technologies Used
 This Banking App is built using the following technologies and tools:
-- Python: Programming language used to develop the banking functionalities.
-- Git and GitHub: Version control system and platform for repository hosting.
+- Python
+- Git and GitHub
 
 ## Installation
 
