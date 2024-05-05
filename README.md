@@ -10,6 +10,11 @@ This Banking App is a simple Python program that simulates basic banking functio
 - **Error Handling**: The app gracefully handles invalid user input for withdrawal and deposit amounts.
 - **Flexibility**: The app allows initializing the account with a specific initial balance.
 
+## Technologies Used
+This Banking App is built using the following technologies and tools:
+- Python: Programming language used to develop the banking functionalities.
+- Git and GitHub: Version control system and platform for repository hosting.
+
 ## Installation
 
 1. Clone the repository to your local machine:
